@@ -1,0 +1,4 @@
+[submodule "open-api"]
+	path = open-api
+	url = https://09173d147e05111e4ba46d6cc0dba4759c3bf651@github.com/pingpong-lee/imyours-openapi.git
+	branch = main
